@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>book appointment</name>
+        <order/>
+        <roles>x_15739_apt.book_appointment_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-11 17:53:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3da62fec0fd35300d345059ce1050e52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>book appointment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Appointment" source="x_15739_apt">0b7627240f135300d345059ce1050ea6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Appointment">0b7627240f135300d345059ce1050ea6</sys_scope>
+        <sys_update_name>sys_ui_application_3da62fec0fd35300d345059ce1050e52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-11 17:53:45</sys_updated_on>
+    </sys_ui_application>
+</record_update>
